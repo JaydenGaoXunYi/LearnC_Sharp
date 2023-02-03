@@ -1,0 +1,15 @@
+/Users/apple/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/apple/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/apple/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/apple/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/apple/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/apple/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
